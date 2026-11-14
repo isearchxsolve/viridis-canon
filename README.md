@@ -32,7 +32,6 @@ evidence exists.
 | Rebuilt on every push | CI | `lake build` with an axiom audit (see [`REPRODUCE.md`](./REPRODUCE.md)). |
 | Legacy catalog records | 215 | Labelled UNCERTIFIED until re-certified (see [below](#legacy-catalog-status)). |
 
-How we release AI-assisted results, measured against the mathematics community's
 recommendations and including our known gaps, is set out in
 [**`RESPONSIBLE_RELEASE.md`**](./RESPONSIBLE_RELEASE.md).
 

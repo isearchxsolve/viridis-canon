@@ -20,7 +20,6 @@ artifacts, and publication decisions.
 - **OpenAI Codex** may be used for code, proof-candidate drafting, operational
   preparation, testing and evidence reconciliation. It is an AI tool, not an
   accountable author or independent verifier. Agent commits carry
-  `AI-Assisted-By: OpenAI Codex` as technical provenance.
 - Other software may be used for numerical checks, catalog generation, and
   reproducibility testing.
 

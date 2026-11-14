@@ -1,15 +1,11 @@
-# How Viridis releases AI-assisted science
 
 AI systems help produce most of the results in this repository. Some propose the
 models and arguments; some draft the Lean proofs. So the questions now being asked
-of AI-generated mathematics apply to us too.
 
 In September 2026 the
 [Advisory Group on Mathematics and Artificial Intelligence](https://agmai.org/)
 published recommendations for the
-[responsible release of AI-generated mathematics](https://agmai.org/general-sep29/),
 based on responses from more than 600 mathematicians. A week later a large batch
-of AI-generated manuscripts was released as a Git repository. Critics noted that
 most of its results were not machine-checked, that no named person answered for
 each paper, and that nothing had a persistent identifier.
 

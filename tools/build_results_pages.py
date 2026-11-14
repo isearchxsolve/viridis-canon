@@ -408,7 +408,6 @@ echo '{esc(request)}' | python3 os-bundle/run.py</pre>
 <pre>{esc(bibtex(r, doi))}</pre>
 </main>
 <footer>
-<p>The proofs are AI-generated and machine-checked; Justin D. Hart (<a href="{ORCID}">ORCID</a>) is the accountable author.
 Tools and their roles: <a href="{REPO}/blob/main/AI_USE_AND_AUTHORSHIP.md">AI_USE_AND_AUTHORSHIP.md</a>.
 How we release: <a href="{REPO}/blob/main/RESPONSIBLE_RELEASE.md">RESPONSIBLE_RELEASE.md</a>.</p>
 <p>Find a vacuous, trivial or misstated theorem among the certified runs and we pay $50 (see the <a href="{REPO}/blob/main/BOUNTY.md">theorem bounty</a>).
@@ -448,7 +447,6 @@ These are the three we lead with; all 18 certified runs are listed in
 <a href="{REPO}/tree/main/certificates">certificates/</a>.</p>
 {''.join(cards)}
 </main>
-<footer><p>Justin D. Hart (<a href="{ORCID}">ORCID</a>), Viridis LLC. The proofs are AI-generated and machine-checked;
 see <a href="{REPO}/blob/main/RESPONSIBLE_RELEASE.md">how we release</a>.</p></footer>
 </body>
 </html>
